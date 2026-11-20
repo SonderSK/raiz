@@ -6,7 +6,7 @@
 
 <p align="center"><em>Mais cuidado com a água. Mais força para cultivar.</em></p>
 
-Landing page do **Projeto RAIZ**, desenvolvida pelo grupo **SONDER** para a Global Solution 2026.2 da FIAP (tema CitizenTech).
+Landing page do **Projeto RAIZ**, desenvolvida pelo grupo **SONDER** para a Global Solution 2026 da FIAP (tema CitizenTech).
 
 ![Página inicial do RAIZ](docs/home.webp)
 
@@ -79,7 +79,7 @@ O protótipo segue a mesma identidade visual da landing page. Um botão "Simular
 ## Estrutura
 
 ```
-GS_FRONT_END/
+raiz/
 ├── index.html       # página principal
 ├── css/
 │   ├── styles.css   # estilos da página
@@ -108,7 +108,7 @@ Para rodar no computador:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/L1nguin3/GS_FRONT_END.git
+   git clone https://github.com/SonderSK/raiz.git
    ```
 2. Abra o arquivo `index.html` no navegador. O app fica em `app/index.html`.
 
@@ -130,4 +130,4 @@ O grupo usou IA como ferramenta de estudo, e o MVP simulado foi gerado com IA a 
 
 ---
 
-**Grupo SONDER** · Global Solution 2026.2 · FIAP
+**Grupo SONDER** · Global Solution 2026 · FIAP

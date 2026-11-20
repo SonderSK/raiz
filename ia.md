@@ -1,6 +1,6 @@
 # Declaração de uso de IA – Grupo SONDER
 
-Nós, do grupo **SONDER**, desenvolvemos o **Projeto RAIZ** na Global Solution 2026.2 da FIAP (tema CitizenTech). Durante o trabalho, usamos a inteligência artificial (Claude) como **ferramenta de estudo**, principalmente para tirar dúvidas e treinar. Este documento explica como isso aconteceu.
+Nós, do grupo **SONDER**, desenvolvemos o **Projeto RAIZ** na Global Solution 2026 da FIAP (tema CitizenTech). Durante o trabalho, usamos a inteligência artificial (Claude) como **ferramenta de estudo**, principalmente para tirar dúvidas e treinar. Este documento explica como isso aconteceu.
 
 ## Sobre o projeto
 
@@ -107,4 +107,4 @@ O que foi feito pelo grupo:
 
 Usamos a IA para aprender e tirar dúvidas de CSS, JavaScript e Python, e para gerar o MVP simulado do aplicativo, que está identificado como protótipo feito por IA. O projeto, as decisões, a landing page e o conteúdo são trabalho do grupo SONDER.
 
-**Grupo SONDER** · Global Solution 2026.2 · FIAP
+**Grupo SONDER** · Global Solution 2026 · FIAP
