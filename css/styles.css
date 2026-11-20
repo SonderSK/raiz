@@ -232,13 +232,6 @@ h1 {
     font-size: 1.04rem;
 }
  
-.contagem {
-    display: inline-block;
-    margin-top: 1rem;
-    color: var(--verde);
-    font-size: 0.78rem;
-    font-weight: 700;
-}
 h1,
 h2 {
     font-family: var(--fonte-titulo);
