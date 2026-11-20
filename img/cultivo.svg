@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" role="img" aria-label="Broto crescendo no solo ao lado do sensor RAIZ">
+  <!-- cartão -->
+  <rect x="36" y="36" width="448" height="348" rx="36" fill="#E9F2EC"/>
+  <circle cx="392" cy="104" r="36" fill="#D4E7DA"/>
+
+  <!-- solo -->
+  <path d="M100 300 Q260 254 420 300 L420 336 L100 336 Z" fill="#B5895C"/>
+  <rect x="100" y="336" width="320" height="20" fill="#8B6A4C"/>
+
+  <!-- raízes -->
+  <g fill="none" stroke="#7A5A40" stroke-width="5" stroke-linecap="round">
+    <path d="M200 324 Q232 314 258 292 Q286 314 318 324"/>
+    <path d="M258 292 L258 330"/>
+  </g>
+
+  <!-- broto -->
+  <path d="M258 292 V128" stroke="#28745A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M256 212 C216 214 164 192 146 156 C196 140 246 162 256 212 Z" fill="#529A6B"/>
+  <path d="M260 194 C260 142 298 96 358 88 C362 146 320 188 260 194 Z" fill="#28745A"/>
+
+  <!-- hastes do sensor entrando no solo -->
+  <ellipse cx="345" cy="284.5" rx="8" ry="3" fill="#7A5A40"/>
+  <ellipse cx="375.5" cy="289.5" rx="8" ry="3" fill="#7A5A40"/>
+  <g transform="translate(318 160) scale(0.82) translate(-56 -164)">
+    <g fill="#8A6B3C">
+      <rect x="85" y="296" width="8" height="60"/><path d="M83 356 L95 356 L89 368 Z"/>
+      <rect x="122" y="296" width="8" height="60"/><path d="M120 356 L132 356 L126 368 Z"/>
+    </g>
+    <g fill="#6F5530"><rect x="90" y="296" width="3" height="60"/><rect x="127" y="296" width="3" height="60"/></g>
+  </g>
+
+  <!-- sensor RAIZ -->
+  <g transform="translate(318 160) scale(0.82) translate(-56 -164)">
+    <rect x="60" y="166" width="104" height="134" rx="20" fill="#C9C9BC"/>
+    <rect x="56" y="164" width="104" height="134" rx="20" fill="#EEEDE3"/>
+    <rect x="66" y="182" width="84" height="56" rx="4" fill="#102420"/>
+    <circle cx="75" cy="191" r="4" fill="#8CC8E6"/>
+    <circle cx="146" cy="254" r="5" fill="#8CC8E6"/>
+    <rect x="56" y="268" width="104" height="14" fill="#1F6B4A"/>
+  </g>
+</svg>
